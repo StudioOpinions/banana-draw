@@ -1,7 +1,7 @@
 {
     "name": "Vibe Draw",
     "short_name": "Vibe Draw",
-    "description": "Vibe Draw is a platform for doodling and creating 3D models",
+    "description": "Vibe Draw is a platform for doodling and creating images",
     "start_url": "/",
     "scope": "/",
     "display": "standalone",
